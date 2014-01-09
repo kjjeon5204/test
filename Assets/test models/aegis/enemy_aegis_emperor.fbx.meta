@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 7b64ca6dec4225440a10fc65eff8f836
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: back
+    100002: backplate
+    100004: body
+    100006: //RootNode
+    100008: frontplate
+    100010: head
+    100012: Larm2
+    100014: Lbackpivot
+    100016: Lcape
+    100018: Lelbow
+    100020: Lfoot
+    100022: Lfootplate
+    100024: Lhand
+    100026: Lhip
+    100028: Lknee1
+    100030: Lknee2
+    100032: Llegbackplate
+    100034: Lshoulder
+    100036: Lsidethrust
+    100038: Lthruster
+    100040: Lwing
+    100042: pelvis
+    100044: polySurface1
+    100046: Rarm2
+    100048: Rbackpivot
+    100050: Rcape
+    100052: Relbow
+    100054: Rfoot
+    100056: Rfootplate
+    100058: Rhand
+    100060: Rhip
+    100062: Rknee1
+    100064: Rknee2
+    100066: Rlegbackplate
+    100068: Rshoulder
+    100070: Rsidethrust
+    100072: Rthruster
+    100074: Rwing
+    100076: torso
+    400000: back
+    400002: backplate
+    400004: body
+    400006: //RootNode
+    400008: frontplate
+    400010: head
+    400012: Larm2
+    400014: Lbackpivot
+    400016: Lcape
+    400018: Lelbow
+    400020: Lfoot
+    400022: Lfootplate
+    400024: Lhand
+    400026: Lhip
+    400028: Lknee1
+    400030: Lknee2
+    400032: Llegbackplate
+    400034: Lshoulder
+    400036: Lsidethrust
+    400038: Lthruster
+    400040: Lwing
+    400042: pelvis
+    400044: polySurface1
+    400046: Rarm2
+    400048: Rbackpivot
+    400050: Rcape
+    400052: Relbow
+    400054: Rfoot
+    400056: Rfootplate
+    400058: Rhand
+    400060: Rhip
+    400062: Rknee1
+    400064: Rknee2
+    400066: Rlegbackplate
+    400068: Rshoulder
+    400070: Rsidethrust
+    400072: Rthruster
+    400074: Rwing
+    400076: torso
+    4300000: polySurface1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

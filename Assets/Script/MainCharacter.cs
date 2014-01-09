@@ -2,6 +2,7 @@ using UnityEngine;
 using System.Collections;
 
 public class MainCharacter : Character {
+	/*
 	public enum PlayerState {
 		IDLE,
 		MOVING
@@ -23,8 +24,9 @@ public class MainCharacter : Character {
 
 	public void event_selector() {
 		/*There are no conditional events for this script*/
+	/*this
 	}
-
+	
 	public void event_handler() {
 	}
 	
@@ -44,4 +46,5 @@ public class MainCharacter : Character {
 		nextTransform = currentMovement.update_transformation(1.0f * Time.deltaTime);
 		transform.Translate (nextTransform.vector);
 	}
+*/
 }

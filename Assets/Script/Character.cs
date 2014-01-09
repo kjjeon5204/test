@@ -2,6 +2,7 @@ using UnityEngine;
 using System.Collections;
 
 public class Character : MonoBehaviour {
+	/*this
 	public class PotentialField {
 		struct PotentialData {
 			public float potentialForce;
@@ -27,7 +28,7 @@ public class Character : MonoBehaviour {
 				negative.
 		Modfies: Nothing
 		*/
-
+		/* this
 		public float calc_force (Vector3 pos1, Vector3 pos2) {
 			float dist = Vector3.Distance(pos1, pos2);
 			float finalForce = myPotentialData.potentialForce - 
@@ -117,11 +118,17 @@ public class Character : MonoBehaviour {
 		}
 	}
 
+	struct DamageVal {
 
-	public class EventHandler {
-		public virtual void event_selection(){/*The base type has no methods*/}
-		public virtual void event_handler(){/*The base type has no methods*/}
 	}
+
+	public virtual void on_death();
+
+	public virtual float on_hit();
+
+	
+
+
 	/*
 	// Use this for initialization
 	void Start () {
